@@ -2,6 +2,10 @@
   color: rgba(0, 0, 0, 1) !important;
 }
 
+#navbarNav {
+  justify-content: end;
+}
+
 .navbar-nav .nav-link:hover {
   color: rgba(0, 0, 0, 0.5) !important;
 }
